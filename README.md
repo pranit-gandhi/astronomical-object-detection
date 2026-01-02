@@ -1,7 +1,11 @@
 # Astronomical Object Detection  
 **Image Classification with KNNs, ANNs, and CNNs**
 
-Authors: Aarav Agrawal, Pranit Singh Gandhi  
+Authors: Pranit Singh Gandhi, Aarav Agrawal  
+
+---
+
+![Samples of Astronomical Objects](assets/astronomical-object-detection-samples.png)
 
 ---
 
@@ -86,14 +90,6 @@ CNNs consistently outperform KNNs and ANNs due to superior spatial feature extra
 - Depth must be balanced with regularization and learning rate  
 - PCA is critical for distance-based models  
 - Simple models can perform well with the right preprocessing  
-
----
-
-## Recommended Main Figure
-
-**Figure 1 – Samples of all 12 classes**
-
-This figure best communicates the problem and dataset diversity and is ideal as the README hero image.
 
 ---
 
