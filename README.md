@@ -17,7 +17,7 @@ The motivation behind this work comes from a shared interest in astronomy and ap
 
 We evaluate three families of models:
 
-- **K-Nearest Neighbors (KNN)** with heavy preprocessing and PCA  
+- **K-Nearest Neighbors (KNN)** with heavy preprocessing and Principal Component Analysis (PCA)  
 - **Artificial Neural Networks (ANNs)** with varying depth and regularization  
 - **Convolutional Neural Networks (CNNs)** with different architectural depths  
 
